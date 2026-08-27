@@ -12,7 +12,7 @@ body {
   padding: 2rem;
   width: 100%;
   min-height: 100vh;
-  background-image: linear-gradient(to right bottom, #ffe4d6, #ffb4a2);
+  background: red;
   display: flex;
   flex-direction: column;
 }
